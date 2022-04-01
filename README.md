@@ -24,3 +24,4 @@ DDL-
 1. String Pattern: Like
 2. GroupBy
 3. OrderBy
+4. [String,Datetime](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/MySQL/week3/Builtinfunctions.md.html)
