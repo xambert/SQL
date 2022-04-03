@@ -43,4 +43,8 @@ Syntax : [SELECT column_name [, column_name ]
     FROM table1 [, table2 ]
     WHERE condition);]
 
+**WEEK 6**
+
+1. VIEWS
+2. STORED PROCEDURE [NOT_UNDERSTOOD]
 
